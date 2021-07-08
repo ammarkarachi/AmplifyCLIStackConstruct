@@ -1,0 +1,2243 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "affectsGlobalScope": false
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "d0db416bccdb33975548baf09a42ee8c47eace1aac7907351a000f1e568e7232",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+        "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
+        "version": "4f435f794b7853c55e2ae7cff6206025802aa79232d2867544178f2ca8ff5eaa",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/cxapi.d.ts": {
+        "version": "9f13242b332d6b666c651578be05e9622cbe9c3265b46f22c688a590a484837f",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/context/vpc.d.ts": {
+        "version": "f601ecaf6957513f1b2bf248cae78f075d1ffc0ed239d45710bf41dbfa74d7c5",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/context/ami.d.ts": {
+        "version": "e6eb82d9c859c823e349290871cf81f3453bb7fb9c165c9419308dbe87f96745",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/context/load-balancer.d.ts": {
+        "version": "fd585e81c4db92d78a9e204466341c813ddf22f76f6c4a0ecec46e94b80c8b1a",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/context/availability-zones.d.ts": {
+        "version": "12a9a23072b7b69c8492219d35c2218756622920f4dd84c70ae321a779b104db",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/context/endpoint-service-availability-zones.d.ts": {
+        "version": "7e6275160f610ca16e93cab967d78e518e928acbd7002bb5fe475c23b9c0d9d9",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/context/security-group.d.ts": {
+        "version": "122f28e1570e489b3de2d0edadde44a0d29f2f2fa11828796cddefec0bf2ff64",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/artifact-schema.d.ts": {
+        "version": "c41969e37a4fcdd553b1df4f00454caf3642b0ebf1c104ade73ae88269411ef9",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/metadata-schema.d.ts": {
+        "version": "ffdbd9dad7915f0a14384aaa10e4b32145c60e2b631d32d5d2f11436ce6e08bc",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/context-queries.d.ts": {
+        "version": "613f67d6fe7a32dc0608857f3afa36aabde5dcd72407872e68a832769eb0d2e4",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/schema.d.ts": {
+        "version": "52791466e51a16dd004e9bfc21a280674a8ac5cdfdcf0b10693c94c0820ca80a",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/index.d.ts": {
+        "version": "74c863ecedb45fcb4f990b80f11bf01914c563930ede1f0ee297753436d2b54d",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/aws-destination.d.ts": {
+        "version": "59eba7da7270b613a407a06b00df7d6a8993a6e8f7def2db0f59d7903e124dc8",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/docker-image-asset.d.ts": {
+        "version": "6098719d05144a25494c2a7b8be9041f363413015811e8215f71ba7849b2c7ce",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/file-asset.d.ts": {
+        "version": "485bba738d209f1f16726c050220cc1002f6cfec96c38bf4909d2ba3542ad081",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/schema.d.ts": {
+        "version": "3e142070df7b7182c7233373007c7d7b198811080e234ff60805c45dff85cf35",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/index.d.ts": {
+        "version": "34f5728ea96206f292548044255dd2478bd64598c56f6d4a7447d4b68fedc96c",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/manifest.d.ts": {
+        "version": "4de0737df4fa22f3775ff3b1776bde5b6763f281740eb8c72526398ab9ac5771",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/index.d.ts": {
+        "version": "044008a1c34bca8cddf96b066c64c41ad9f43349a71b9966d3d98b7ed911c1a5",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/environment.d.ts": {
+        "version": "3e9f02b089838a790a8b6397aadb56997cb482de207f3b00e8f60f7c8fd248b8",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/artifacts/cloudformation-artifact.d.ts": {
+        "version": "55faef26df931c7b91cb96cbb3e32510202d9ff2022a8cdba21e755b1de57ef8",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/artifacts/nested-cloud-assembly-artifact.d.ts": {
+        "version": "80c0992d42d4007e25f17908bb295b1b7037789ca942ad9111ffb163da7182b1",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/artifacts/tree-cloud-artifact.d.ts": {
+        "version": "078c83b4372b9726d20e0735f0a65b7cfefe241f67afe53e929056f5cd5459c7",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/cloud-assembly.d.ts": {
+        "version": "bc4c393576bb6922d95f4ecc6e55b4ab3b5222c965502632c32d10adaf1e831c",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/metadata.d.ts": {
+        "version": "35452b9510dc32a26c55ec07da4bb37ca50bcd7a1f0e55d4b7166bbf846ce602",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/cloud-artifact.d.ts": {
+        "version": "c72d95d77714b3fb29066402a68cede9279ec981bc22a47261c098ce031a0d0c",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/artifacts/asset-manifest-artifact.d.ts": {
+        "version": "eb62b31c2623d1a938b0661d1cb32e860e54ca6b6be175c917a2aa57d35a92da",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/assets.d.ts": {
+        "version": "5871d5a8e0f79093470c787f245318aeb5fb23e3d5c5fddb03080fe0e2c368a9",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/features.d.ts": {
+        "version": "af0a1228d6d9c1fd7d5265e5319792fb5503781341600edcea613265ab2c1663",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/placeholders.d.ts": {
+        "version": "8b089d0b3d4ca16a31a107708979d5902d87141ed09eb98494ddb673a32f8e7f",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/app.d.ts": {
+        "version": "aaf2bc9c4d98ba06cf37e6e2322bbbc796214c3d102ff1af2a64f91c81fac24a",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cx-api/lib/index.d.ts": {
+        "version": "9cef15aeae1f970655bf8e5f5e3dc7f5a745ea4b34f55f7dd7f2d1879471a82e",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/constructs/lib/metadata.d.ts": {
+        "version": "90f8ca7d532329ff3201e00ff1e352172120bed7a6d251a85dda4eece2ea2bf5",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/constructs/lib/construct.d.ts": {
+        "version": "1738e7dfa602be1aded33280951f7d81d09dc2067b531ed8ec7de06acba9bb34",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/constructs/lib/aspect.d.ts": {
+        "version": "9c5a60a5337a5f9937de4e6c0b5d3d6ec269a91c7fb9d78a2015c1fe91ce5aaf",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/constructs/lib/index.d.ts": {
+        "version": "f0871f0467541374f38f414e2f05025e4cefcc2b1e33a894e9073ff3e41b85b7",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/dependency.d.ts": {
+        "version": "036121fe88750c3ee466ce79a8d943ef2893455d500ab77bf53bc7ba6bd399f3",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts": {
+        "version": "72652842ccb8c2048b51a6ece6aabf29b031a2235c69527059abd43a8452b581",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/aspect.d.ts": {
+        "version": "8ac9a2e2093798d548ad1e85325c474becdaf1bf60fe3ede122c39d7d9e2ba46",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/arn.d.ts": {
+        "version": "5e429f247398d3354f32dfc9ec55175902952a64e5a5758e6967b7e86f90951d",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/bundling.d.ts": {
+        "version": "132c998bc4f080b1b71079f26cd96f0320b6365c57bcb0dd06793d1b06e8b0fd",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/assets.d.ts": {
+        "version": "d028761950692b46d285f462f983cfebb5ea15501f49d0f96f2b70cf5d03fb6e",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/environment.d.ts": {
+        "version": "837e05611aad4f5507e6f0ce16e55ca47fa8f7b9f33c9fccc45419a890a5413f",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/string-fragments.d.ts": {
+        "version": "4ae30b37fc70d5f163bd0323c3168333ff463f16ad4efc718837bf34d72c45e1",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/resolvable.d.ts": {
+        "version": "b4f3c43417dc1c485046df29db08a834d5dbc738d373d79b8e69626299adabf2",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/private/intrinsic.d.ts": {
+        "version": "20511f8534d4dcf1b4050614e8072275dd28d70651e902c4e9c9668591767ae1",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/reference.d.ts": {
+        "version": "9064e2a1e8193fa3ec6db8e3ddad05fdcb43afe9613d1defabb57563134ef09b",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/stack-synthesizers/types.d.ts": {
+        "version": "11e4af46e0bb1842abb0435445c35b7dbd469f6f26f14c8ed56b8e63821224b3",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/stack-synthesizers/stack-synthesizer.d.ts": {
+        "version": "19cd59a0f8d90cb5c1d2c20c110ea70381c02c16787d7f0b26b09025ee790b76",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/stack-synthesizers/default-synthesizer.d.ts": {
+        "version": "7d4e0e6281f4500f00eb2b2b743088994ec025da8a693d52fd2be96e8592041a",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/stack-synthesizers/legacy.d.ts": {
+        "version": "c1ee6f442e7d58700bbe1686570a34ba902b6cab8606b179aefbabbb6c66e023",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/stack-synthesizers/bootstrapless-synthesizer.d.ts": {
+        "version": "506564b9b283110dd6b91381bc65a33cfafc07e43871ed99fd9464a63084646e",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/stack-synthesizers/nested.d.ts": {
+        "version": "e73cca56464d91892c0b4b00d86b1a5f189ee0fb54a3f4fdde7dde13a30ccbeb",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/stack-synthesizers/index.d.ts": {
+        "version": "b698d6570ba4024043fe8923119a93532317ed08060c2f54541be8edffede18f",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/stack.d.ts": {
+        "version": "f44cc2ccb6dfa90305a715a440e790cbe7d009b2621a6aacce588a26b29ddc06",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-element.d.ts": {
+        "version": "99b63f337371117f6ab6bd8a4bcb719212513efa6d65eb032eead4b03ad787b7",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-condition.d.ts": {
+        "version": "0b2b98ec5e43482e6216a45ea4ef32dabf1ac3db595436080e3793f5950fb82c",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-resource-policy.d.ts": {
+        "version": "d021a83623829de81fc3086761963a69a2ce446890060b5dde49aa33bee7c89f",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/removal-policy.d.ts": {
+        "version": "a82042d882ef46a817291425fe357969a85c914c9813be131412e4d519aca69f",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-resource.d.ts": {
+        "version": "a2e2e14258653639099a25fbbdc0bd167ce865a2c867d845a6a2aea0be9c18cb",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/tag-manager.d.ts": {
+        "version": "7c63098787f32aafb3a14f57ab851df4b49a7afe8d949dac6880c945909f73cc",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/tag-aspect.d.ts": {
+        "version": "caa274d682fe65a5c869c1133e9919a642a17d52ecefb2079d8fd9328fbbd55b",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/token.d.ts": {
+        "version": "7d69e4c36756fe7fd9488e1e4d5215bd96ba004a7372654a75d0d1b30e31580a",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/lazy.d.ts": {
+        "version": "b453172348c08a327c699fc77173474735913af0357120c97aec3d128626a80c",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-fn.d.ts": {
+        "version": "2ed0707e59ff624977ea93e720f0e3c0ab4e4850e818a6166a73d07446f31611",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-hook.d.ts": {
+        "version": "bae498df1270f5f726d288adc40eb625560ee9cc32ce4d074d4a2b4b73f278da",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-mapping.d.ts": {
+        "version": "fbf429ddd77f2197d86bac5f21dba137635198e03c0366b7769ad8d653325911",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-tag.d.ts": {
+        "version": "d512887bd792d46ab734160bddd4bc36cb402c6864a34e12b785f83ba8b49655",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/runtime.d.ts": {
+        "version": "b2a011d6f1922e779e56d0d313f26b7e60222840708902d2d02cc082804fe56d",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-parse.d.ts": {
+        "version": "b171f6c3db33ade449c3107ac2744473c59eac81527822ab989f35e2eb414535",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-codedeploy-blue-green-hook.d.ts": {
+        "version": "e0f0a32d936616f875c8d345ebc701885061491921871d34ffd276950af44f34",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-include.d.ts": {
+        "version": "275b6893e2795c8976037de750ee21d6ecf71b23014d8a55155bcd79a76e0b6d",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-output.d.ts": {
+        "version": "8e2802dccbad13cdc052724b3fe3833ea0706b65c30d2a2f7d04aeb5f4f3e772",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-parameter.d.ts": {
+        "version": "4d903dd7a429a49c18d89c5e36d5dc530ce9c3eb33293db6c0693e54f3e8e8c7",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-pseudo.d.ts": {
+        "version": "4c7a369df03f1dc5bb8dc852039567be32010963abf58deebb5fe3a25f2ef189",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-rule.d.ts": {
+        "version": "b0b6e04c46119849996a359103df6d925147513da8031f4787b0732aa64b9e0b",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/stage.d.ts": {
+        "version": "fc6f0322b8d21316452496ded030f040b2a681fad78f47c5e71fcec29f1bf951",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-dynamic-reference.d.ts": {
+        "version": "df7298fdc190d08bd7ccd3d1e388b850c393107e91e98b02417af6954c5c5d4d",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-json.d.ts": {
+        "version": "a010b98a5581db97328f1e0ef949da41e2bdc78ea57a01f4f65dd0b2c0e2f007",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/duration.d.ts": {
+        "version": "d93d905efe315a00ca24ba4dbe91438b72a7baa9230533814ad8a6193d376d03",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/expiration.d.ts": {
+        "version": "ea341c8ec627b8c73f54d4a268f96c4fa09825bb24e766993adbd223cd839f67",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/size.d.ts": {
+        "version": "83bee8547823887edd4f86f9495ab0dfc0775a8fa7485b1eaa0290ff33286fc2",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/stack-trace.d.ts": {
+        "version": "0abac1682418e7ac6a7f3cf5fccab465e427f4a03cd457f654c4655d8d24b305",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/app.d.ts": {
+        "version": "0ffa99c75635280b7fcd1d54243da5b7fb92a83aee780517c7da3a83fdc5fb80",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/context-provider.d.ts": {
+        "version": "5d5d12c440a681c5c9adad759a47cdfc2aec7ea17c684cd48082169c8074bec4",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/annotations.d.ts": {
+        "version": "15aebd2e012707197adade9d5804a370d989a5fb7961c0e03f54ba1dc985c259",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/secret-value.d.ts": {
+        "version": "6d8eaace3b676b84501d944b4783433759add654c22daeb278a77d6ff492177b",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/resource.d.ts": {
+        "version": "ada8e0ab3cb6f486c618d7b08dcaca459ac99443ae8509a38435516d68e35fe6",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/physical-name.d.ts": {
+        "version": "cffd76bddd40d0b8c07e628bb1bf04b1b3356c2e33baf4556116739d8088322e",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/tree.d.ts": {
+        "version": "dc51f2133ecd47b2d9f964fac72796499571488e3d3ac2f758aea4d00c0dee57",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/fs/options.d.ts": {
+        "version": "5b0f9126bcd10bea45a1a77460070395b82675cfcb42225867f499123f92ad4f",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/fs/ignore.d.ts": {
+        "version": "893774e0c405d9591928bd9067453ed4a7956e332b5d58f12d0b196d747856f9",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/fs/index.d.ts": {
+        "version": "8c7e3e1a6f4556c47c5e3713e9f343d66fdd82f93d58036eedef4c74ee841ab4",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/asset-staging.d.ts": {
+        "version": "aa8426200479d014faa55d1eb2f2349ad9bec50238169ff7c1e2dcb0cb98abd0",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/custom-resource.d.ts": {
+        "version": "c2ee1c5e3abfe5db95ce405046c0afa2e2baf9ab4707afc46ffdef27bc4dcdc9",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/nested-stack.d.ts": {
+        "version": "c92d4825c19ae5aff241c5920149b7289be0947b6c942cf84ff27581310a5546",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/custom-resource-provider/custom-resource-provider.d.ts": {
+        "version": "d02f7fdf0b9b265303a9daba3f3d5413e096f4327560a9745248af96564e1cc6",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/custom-resource-provider/index.d.ts": {
+        "version": "a719c70bd2280479af2555463633fd202b14b55e271a15905eb86e9a35cd6eb6",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cfn-capabilities.d.ts": {
+        "version": "f5ec98abe0a11ab336f7b1260ea3618038d6e9cf16f6eb04ec2653ff1f236c7b",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/cloudformation.generated.d.ts": {
+        "version": "c5916a40edf4655ad0200445748e6497f02107a677c9c65860759a6a639f1f7b",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/feature-flags.d.ts": {
+        "version": "58cfcf55cd123e1467cbb140ea7a294557d11ca27cdfdeb4487d4cfc1719d257",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/names.d.ts": {
+        "version": "22b81499ff2539bceed14076dec08a2e4a7f30287e39d2c39c1429a527404ad5",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/core/lib/index.d.ts": {
+        "version": "c9f3cf262c8c1a1073c9dda0ff39862d94b9da91da8111c04c335cbbf9f244ca",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cloudformation-include/lib/cfn-include.d.ts": {
+        "version": "aedb7e64852a2c44d16ea5ea6fd3a87a664b7c95bb73817022db0da5f31c9e11",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/cloudformation-include/lib/index.d.ts": {
+        "version": "d89650e3481eab7de59fd64009525ce6f532d3b74fb7dd509da55d8b0870f3c6",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/globals.d.ts": {
+        "version": "f323beec07a17e0082bfeed95ad57d66c9a65fc799c98511993cb2112a9e1c77",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/@types/node/async_hooks.d.ts": {
+        "version": "138476cfdccbb9e2c7e06602bc216af843a56c4f3469a79106bc660ba94bd66a",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/buffer.d.ts": {
+        "version": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/child_process.d.ts": {
+        "version": "3814f4b4c648f278aefda68889f8912ef9928ba6fc12bf6dd85a6a680b660e00",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/cluster.d.ts": {
+        "version": "fcd718b2feb2820a9844536a1a2fbc77a3da90820e02894d40f879a789f46560",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/console.d.ts": {
+        "version": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/constants.d.ts": {
+        "version": "ece75b9bfc916f9ccc4e8a9ddee1dda5c987804fbe3b60a01fc120fae731c2ce",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/crypto.d.ts": {
+        "version": "d70cf14b7dd281408be0a7a239ae92b5e26178ac269da5ed39daf86564d5af4b",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/dgram.d.ts": {
+        "version": "3d1cb0eaae19fa89fe381bba6d5a149d1bf34efc0134220879f57e2061732a6d",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/dns.d.ts": {
+        "version": "05e732266b5a36789fd9eb846b1f45fec1b6e318b740e3f20fc22fd95f9ebf31",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/domain.d.ts": {
+        "version": "ae3487bdb9b50c1d8bbeb6b55c8b2b9aa79bbc46d7afbc3483169ad8750c4304",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/events.d.ts": {
+        "version": "c53b63229a0b7e9d64347c4fc975dd52a9e9a81f9be099f5a21220e2a1276d28",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/fs.d.ts": {
+        "version": "1733741cf2adc5926ac58c66004268cdc3d34b2ff6250f5114db14253ea02ce1",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/http.d.ts": {
+        "version": "fb069f40dcd4b7f257ece5f72cffea7f12f67c0b36686a8f9715e5df0bba1f57",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/http2.d.ts": {
+        "version": "c9212c26733f9b1ef963a10f6b72da02b31eb1b107cfc4b26279fcdc621e9201",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/https.d.ts": {
+        "version": "152af7c23ec219f632afa2d861abc65993f56cd39a4f3a4018515dbc05950a74",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/inspector.d.ts": {
+        "version": "3a0bdc4c5b6f84a1abb5356d7a7fa1f96ac6c5b5646eec3ef2b33c1ed095e155",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/module.d.ts": {
+        "version": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/net.d.ts": {
+        "version": "56a15cc211894d79aa44cbb46c276bfd3f10458a61bff2dec99114db8a7e71e3",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/os.d.ts": {
+        "version": "1a5366b0d4d0153955fd85777c72d35979dabc0537649da6eade09007c0d080a",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/path.d.ts": {
+        "version": "61c84c3b0eb6e60196d15ae5e21793a1d4241c547f0bdd0529ffae838d1a073c",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "981192e57b0e159c977f1d8e8b8576e9d6b4e013b902e9c0d4b178cb47e2dc86",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/process.d.ts": {
+        "version": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/punycode.d.ts": {
+        "version": "eeb0d1ad28e70773ac57ae9fe939c3bad6af2525a463c28f9ec31b5953de6735",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/querystring.d.ts": {
+        "version": "8969e0b4d22ca77ad011c8fc4a25ec5d515bdfae4ecbd22608ed0d5c38829c1e",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/readline.d.ts": {
+        "version": "81ef2751228318b1c7c6b35ccae2ea39ef275add30319e746bfd4658208a0519",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/repl.d.ts": {
+        "version": "d0b0b533dc34ff7ffd019665fdc2b2aeae717bc1347e17a5bdc4d6572b5c109a",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/stream.d.ts": {
+        "version": "d773accd5b85fb3127f212218d33a262aad2d118d18c7367b4dcf65482e13906",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/string_decoder.d.ts": {
+        "version": "17e157df6125098a1a34eb4d201ee4ac03bbe97e471ab5627bb2c40fce555948",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/timers.d.ts": {
+        "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/tls.d.ts": {
+        "version": "39dec06488aa1c05aa22bde1e2d96a3beda1ae565d7429bcc8053a26e83a6a56",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/trace_events.d.ts": {
+        "version": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/tty.d.ts": {
+        "version": "a185b8e0d7a4ae078a79339d63e98177813aac39256f69f788eaf5c360aa756f",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/url.d.ts": {
+        "version": "fc8078ae641decbc5c0ddaa864fdb5c78194554568d334db769e80a4781a79b7",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/util.d.ts": {
+        "version": "bfe1881838ba7c651b20165e17f942689dbe6e14b26d24268990e40aef68ce37",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/v8.d.ts": {
+        "version": "e880a08fbb0d9ee2f733f9183f4d1bdb75bc9e0e64060a8a1fc30540791fcded",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/vm.d.ts": {
+        "version": "80a2bcde37ee49bbc4ddcc627710ea2f60321b24adbe949a585fc29586bcdcd3",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/worker_threads.d.ts": {
+        "version": "e761c833140e3ab6f9deab37fe034154f3eb15547dce61395d9b0b1f130f3fa3",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/zlib.d.ts": {
+        "version": "58257a0147702ab415ed18164557a0feb9c5d1351792ea293a876e6b7ed0c559",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/base.d.ts": {
+        "version": "2026b7041e063d40039177d4ee3f916b2ef69a6741a0ed092301dee65eea4149",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/ts3.2/util.d.ts": {
+        "version": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/ts3.2/globals.d.ts": {
+        "version": "ce6b191c382ee19f23678b8c364484627bcf424e8f408357a2f5530fb8d52a45",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/@types/node/ts3.2/base.d.ts": {
+        "version": "6f44b710b2fa277aab791d53f5b72991fbc1c93313bfc78e519764ac2a9b7f0f",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/ts3.7/assert.d.ts": {
+        "version": "53729e4ea004f63dbe9e935dba015b6e20b3473d68757463949716bf5705bd89",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/ts3.7/base.d.ts": {
+        "version": "b03474e5359472103e86fca6071bf55dc2a955119559a036bdca268c2a68c418",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/node/ts3.7/index.d.ts": {
+        "version": "d522314e80ed71b57e3c2939d3c9594eaae63a4adf028559e6574f6b270b0fee",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/fs-extra/index.d.ts": {
+        "version": "5171627120eeb3a7e8afb8ed04ea9be7f0b53ba09bb1fc95172483e0fbb0740c",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/uuid/index.d.ts": {
+        "version": "fab58e600970e66547644a44bc9918e3223aa2cbd9e8763cec004b2cfb48827e",
+        "affectsGlobalScope": false
+      },
+      "./lib/index.ts": {
+        "version": "0217584de9e408bba9794d556cf183c216978a6a30518ec4015444af3f617831",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/assertions/match-template.d.ts": {
+        "version": "d8e6cceea54c1c7e6a34bd1f3167fcbccaa6c49061e8c2df804a40355088d4dd",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/inspector.d.ts": {
+        "version": "a52a847fdc860c91a6ef0708d4a9b05bdf3cc93cd37ed4f0a8214d4e9e4e8b8e",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/assertion.d.ts": {
+        "version": "e9404c8897d4aa5402aa15c00946506651aacdc05be93212a559016eee82a19b",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/canonicalize-assets.d.ts": {
+        "version": "641f599517c4bad4fbeb8f30e27719ed266f6365253f5179bcf33ece623d6d70",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/expect.d.ts": {
+        "version": "be25653ca3d0287529110c9da0c7fc9aaaf521f39f8c9ae16b60b613ef38e288",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/synth-utils.d.ts": {
+        "version": "541d4e9c16130572cc647377d7bd898b1a65f2fd77f37b397223c1adcea3b851",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/assertions/exist.d.ts": {
+        "version": "ea72dfc70b7b0fd4300db1109fdc398f97217b62a918d49d5eb959c54a620820",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/assertions/have-output.d.ts": {
+        "version": "3ade34f24ea82caacc6cd66c87581d8a84b7e18b34849348564bf9220a935952",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/assertions/have-resource.d.ts": {
+        "version": "11ebe443ffc67174c55a3439c66692bbdeef315d00c6b5527b4fb6e905fac96e",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/assertions/have-resource-matchers.d.ts": {
+        "version": "9ff986ddad3047ed0d7ca149d447c50a94b838e9d9b986a0110b275e6d311332",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/assertions/have-type.d.ts": {
+        "version": "958701e2956854c6b5105a447594eba50a6c2181e0644ea8f9c1ffcb919df93f",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/assertions/and-assertion.d.ts": {
+        "version": "5f54b3c115e72a7eb2bf7d5a50faed7def097eaa181fccb8214763b58f48a868",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/assertions/negated-assertion.d.ts": {
+        "version": "e46b2437e9c5e9a02e0f69101605780a2d510528ce72fd39a39d8a012367e2be",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/assertions/count-resources.d.ts": {
+        "version": "9a25391aa2df74a404ee40d0aab72c0d995a30c0368cb3796e4a1d909f9b4d1d",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@aws-cdk/assert/lib/index.d.ts": {
+        "version": "e0aa83b7b8dd4f860502b424b548af2ffbf84d4b8af66414e758b9f0bdcf13da",
+        "affectsGlobalScope": false
+      },
+      "./test/amplify_cl_isynth_cdk.test.ts": {
+        "version": "be8a2094fea1cdff1ad9869713871d4520202874c5dfe9f3f546e2eefc3509f4",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@babel/types/lib/index.d.ts": {
+        "version": "a17ba25a194979a88bfd925e849d76b63f68c4160b69a99c5d723eac5ffddaf0",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/babel__generator/index.d.ts": {
+        "version": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@babel/parser/typings/babel-parser.d.ts": {
+        "version": "3e6297bcddf37e373d40ddb4c2b9e6fc98901b2a44c01b2d96af142874973c43",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/babel__template/index.d.ts": {
+        "version": "3051751533eee92572241b3cef28333212401408c4e7aa21718714b793c0f4ed",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/babel__traverse/ts4.1/index.d.ts": {
+        "version": "761b198f568a1fd4be6cf0a12a54e3d08250cf07adc82072542b53b89837e79b",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/babel__core/index.d.ts": {
+        "version": "6f1d39d26959517da3bd105c552eded4c34702705c64d75b03f54d864b6e41c2",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/graceful-fs/index.d.ts": {
+        "version": "3ebae8c00411116a66fca65b08228ea0cf0b72724701f9b854442100aab55aba",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/istanbul-lib-coverage/index.d.ts": {
+        "version": "de18acda71730bac52f4b256ce7511bb56cc21f6f114c59c46782eff2f632857",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/istanbul-lib-report/index.d.ts": {
+        "version": "7eb06594824ada538b1d8b48c3925a83e7db792f47a081a62cf3e5c4e23cf0ee",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/istanbul-reports/index.d.ts": {
+        "version": "f5638f7c2f12a9a1a57b5c41b3c1ea7db3876c003bab68e6a57afd6bcc169af0",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/jest-diff/build/cleanupsemantic.d.ts": {
+        "version": "d8aab31ba8e618cc3eea10b0945de81cb93b7e8150a013a482332263b9305322",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/jest-diff/build/types.d.ts": {
+        "version": "69da61a7b5093dac77fa3bec8be95dcf9a74c95a0e9161edb98bb24e30e439d2",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/jest-diff/build/difflines.d.ts": {
+        "version": "561eca7a381b96d6ccac6e4061e6d2ae53f5bc44203f3fd9f5b26864c32ae6e9",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/jest-diff/build/printdiffs.d.ts": {
+        "version": "62ea38627e3ebab429f7616812a9394d327c2bc271003dfba985de9b4137369f",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/jest-diff/build/index.d.ts": {
+        "version": "b4439890c168d646357928431100daac5cbdee1d345a34e6bf6eca9f3abe22bc",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/pretty-format/build/types.d.ts": {
+        "version": "5d72971a459517c44c1379dab9ed248e87a61ba0a1e0f25c9d67e1e640cd9a09",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/pretty-format/build/index.d.ts": {
+        "version": "02d734976af36f4273d930bea88b3e62adf6b078cf120c1c63d49aa8d8427c5c",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/jest/index.d.ts": {
+        "version": "bbc19287f48d4b3c753bd2c82dd9326af19cccbfa1506f859029dfcedc7c5522",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/@types/normalize-package-data/index.d.ts": {
+        "version": "c9ad058b2cc9ce6dc2ed92960d6d009e8c04bef46d3f5312283debca6869f613",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/prettier/index.d.ts": {
+        "version": "ced6b5d728596e292b6312a4f1139931bc28955f4a248c268c2f4144b5624c93",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/stack-utils/index.d.ts": {
+        "version": "b0d10e46cfe3f6c476b69af02eaa38e4ccc7430221ce3109ae84bb9fb8282298",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/yargs-parser/index.d.ts": {
+        "version": "f7e133b20ee2669b6c0e5d7f0cd510868c57cd64b283e68c7f598e30ce9d76d2",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/yargs/index.d.ts": {
+        "version": "09c4b2e2d3070239d563fc690f0cc5db04a2d9b66a23e61aef8b5274e3e9910c",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "outDir": "./",
+      "rootDir": "./",
+      "alwaysStrict": true,
+      "charset": "utf8",
+      "declaration": true,
+      "experimentalDecorators": true,
+      "incremental": true,
+      "inlineSourceMap": true,
+      "inlineSources": true,
+      "lib": [
+        "lib.es2018.d.ts"
+      ],
+      "module": 1,
+      "newLine": 1,
+      "noEmitOnError": true,
+      "noFallthroughCasesInSwitch": true,
+      "noImplicitAny": true,
+      "noImplicitReturns": true,
+      "noImplicitThis": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "resolveJsonModule": true,
+      "strict": true,
+      "strictNullChecks": true,
+      "strictPropertyInitialization": true,
+      "stripInternal": false,
+      "target": 5,
+      "composite": false,
+      "tsBuildInfoFile": "./tsconfig.tsbuildinfo"
+    },
+    "referencedMap": {
+      "./lib/index.ts": [
+        "./node_modules/@aws-cdk/cloudformation-include/lib/index.d.ts",
+        "./node_modules/@aws-cdk/core/lib/index.d.ts",
+        "./node_modules/@types/fs-extra/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/uuid/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/assertion.d.ts": [
+        "./node_modules/@aws-cdk/assert/lib/inspector.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/assertions/and-assertion.d.ts": [
+        "./node_modules/@aws-cdk/assert/lib/assertion.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/inspector.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/assertions/count-resources.d.ts": [
+        "./node_modules/@aws-cdk/assert/lib/assertion.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/inspector.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/assertions/exist.d.ts": [
+        "./node_modules/@aws-cdk/assert/lib/assertion.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/inspector.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/assertions/have-output.d.ts": [
+        "./node_modules/@aws-cdk/assert/lib/assertion.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/inspector.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/assertions/have-resource-matchers.d.ts": [
+        "./node_modules/@aws-cdk/assert/lib/assertions/have-resource.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/assertions/have-resource.d.ts": [
+        "./node_modules/@aws-cdk/assert/lib/assertion.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/inspector.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/assertions/have-type.d.ts": [
+        "./node_modules/@aws-cdk/assert/lib/assertion.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/inspector.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/assertions/match-template.d.ts": [
+        "./node_modules/@aws-cdk/assert/lib/assertion.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/inspector.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/assertions/negated-assertion.d.ts": [
+        "./node_modules/@aws-cdk/assert/lib/assertion.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/inspector.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/canonicalize-assets.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/expect.d.ts": [
+        "./node_modules/@aws-cdk/assert/lib/inspector.d.ts",
+        "./node_modules/@aws-cdk/core/lib/index.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/index.d.ts": [
+        "./node_modules/@aws-cdk/assert/lib/assertion.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/assertions/and-assertion.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/assertions/count-resources.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/assertions/exist.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/assertions/have-output.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/assertions/have-resource-matchers.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/assertions/have-resource.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/assertions/have-type.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/assertions/match-template.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/assertions/negated-assertion.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/canonicalize-assets.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/expect.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/inspector.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/synth-utils.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/inspector.d.ts": [
+        "./node_modules/@aws-cdk/assert/lib/assertion.d.ts",
+        "./node_modules/@aws-cdk/assert/lib/assertions/match-template.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/assert/lib/synth-utils.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/index.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/aws-destination.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/docker-image-asset.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/aws-destination.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/file-asset.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/aws-destination.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/index.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/aws-destination.d.ts",
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/docker-image-asset.d.ts",
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/file-asset.d.ts",
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/schema.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/schema.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/docker-image-asset.d.ts",
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/file-asset.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/artifact-schema.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/context-queries.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/metadata-schema.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/index.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/artifact-schema.d.ts",
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/context-queries.d.ts",
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/metadata-schema.d.ts",
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/schema.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/metadata-schema.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/schema.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/artifact-schema.d.ts",
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/context-queries.d.ts",
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/metadata-schema.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/index.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/index.d.ts",
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/index.d.ts",
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/manifest.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cloud-assembly-schema/lib/manifest.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/assets/index.d.ts",
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/cloud-assembly/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cloudformation-include/lib/cfn-include.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cloudformation-include/lib/index.d.ts": [
+        "./node_modules/@aws-cdk/cloudformation-include/lib/cfn-include.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/annotations.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/app.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/stage.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/arn.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/stack.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/aspect.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/asset-staging.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/assets.d.ts",
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/fs/index.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/assets.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/bundling.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/bundling.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-capabilities.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-codedeploy-blue-green-hook.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-hook.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-parse.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-condition.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-element.d.ts",
+        "./node_modules/@aws-cdk/core/lib/resolvable.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-dynamic-reference.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/private/intrinsic.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-element.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-fn.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-condition.d.ts",
+        "./node_modules/@aws-cdk/core/lib/resolvable.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-hook.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-element.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-include.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-element.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-json.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/resolvable.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-mapping.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-element.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-output.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-condition.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-element.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-parameter.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-element.d.ts",
+        "./node_modules/@aws-cdk/core/lib/resolvable.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-parse.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-condition.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-element.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-mapping.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-resource.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-tag.d.ts",
+        "./node_modules/@aws-cdk/core/lib/resolvable.d.ts",
+        "./node_modules/@aws-cdk/core/lib/runtime.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-pseudo.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-resource-policy.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-resource.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-condition.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-element.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-resource-policy.d.ts",
+        "./node_modules/@aws-cdk/core/lib/reference.d.ts",
+        "./node_modules/@aws-cdk/core/lib/removal-policy.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-rule.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-condition.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-element.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cfn-tag.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/cloudformation.generated.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-parse.d.ts",
+        "./node_modules/@aws-cdk/core/lib/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/aspect.d.ts",
+        "./node_modules/@aws-cdk/core/lib/dependency.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/context-provider.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/custom-resource-provider/custom-resource-provider.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/duration.d.ts",
+        "./node_modules/@aws-cdk/core/lib/size.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/custom-resource-provider/index.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/custom-resource-provider/custom-resource-provider.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/custom-resource.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/reference.d.ts",
+        "./node_modules/@aws-cdk/core/lib/removal-policy.d.ts",
+        "./node_modules/@aws-cdk/core/lib/resource.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/dependency.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/duration.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/environment.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/expiration.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/duration.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/feature-flags.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/fs/ignore.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/fs/options.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/fs/index.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/fs/ignore.d.ts",
+        "./node_modules/@aws-cdk/core/lib/fs/options.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/fs/options.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/index.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/annotations.d.ts",
+        "./node_modules/@aws-cdk/core/lib/app.d.ts",
+        "./node_modules/@aws-cdk/core/lib/arn.d.ts",
+        "./node_modules/@aws-cdk/core/lib/aspect.d.ts",
+        "./node_modules/@aws-cdk/core/lib/asset-staging.d.ts",
+        "./node_modules/@aws-cdk/core/lib/assets.d.ts",
+        "./node_modules/@aws-cdk/core/lib/bundling.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-capabilities.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-codedeploy-blue-green-hook.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-condition.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-dynamic-reference.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-element.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-fn.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-hook.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-include.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-json.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-mapping.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-output.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-parameter.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-pseudo.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-resource-policy.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-resource.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-rule.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-tag.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cloudformation.generated.d.ts",
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/context-provider.d.ts",
+        "./node_modules/@aws-cdk/core/lib/custom-resource-provider/index.d.ts",
+        "./node_modules/@aws-cdk/core/lib/custom-resource.d.ts",
+        "./node_modules/@aws-cdk/core/lib/dependency.d.ts",
+        "./node_modules/@aws-cdk/core/lib/duration.d.ts",
+        "./node_modules/@aws-cdk/core/lib/environment.d.ts",
+        "./node_modules/@aws-cdk/core/lib/expiration.d.ts",
+        "./node_modules/@aws-cdk/core/lib/feature-flags.d.ts",
+        "./node_modules/@aws-cdk/core/lib/fs/index.d.ts",
+        "./node_modules/@aws-cdk/core/lib/lazy.d.ts",
+        "./node_modules/@aws-cdk/core/lib/names.d.ts",
+        "./node_modules/@aws-cdk/core/lib/nested-stack.d.ts",
+        "./node_modules/@aws-cdk/core/lib/physical-name.d.ts",
+        "./node_modules/@aws-cdk/core/lib/private/intrinsic.d.ts",
+        "./node_modules/@aws-cdk/core/lib/reference.d.ts",
+        "./node_modules/@aws-cdk/core/lib/removal-policy.d.ts",
+        "./node_modules/@aws-cdk/core/lib/resolvable.d.ts",
+        "./node_modules/@aws-cdk/core/lib/resource.d.ts",
+        "./node_modules/@aws-cdk/core/lib/runtime.d.ts",
+        "./node_modules/@aws-cdk/core/lib/secret-value.d.ts",
+        "./node_modules/@aws-cdk/core/lib/size.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack-synthesizers/index.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack-trace.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stage.d.ts",
+        "./node_modules/@aws-cdk/core/lib/string-fragments.d.ts",
+        "./node_modules/@aws-cdk/core/lib/tag-aspect.d.ts",
+        "./node_modules/@aws-cdk/core/lib/tag-manager.d.ts",
+        "./node_modules/@aws-cdk/core/lib/token.d.ts",
+        "./node_modules/@aws-cdk/core/lib/tree.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/lazy.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/resolvable.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/names.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/nested-stack.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-resource.d.ts",
+        "./node_modules/@aws-cdk/core/lib/duration.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/physical-name.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/private/intrinsic.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/resolvable.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/reference.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/private/intrinsic.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/removal-policy.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/resolvable.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/string-fragments.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/resource.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/arn.d.ts",
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/runtime.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/secret-value.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-dynamic-reference.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-parameter.d.ts",
+        "./node_modules/@aws-cdk/core/lib/private/intrinsic.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/size.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/stack-synthesizers/bootstrapless-synthesizer.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/assets.d.ts",
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack-synthesizers/default-synthesizer.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/stack-synthesizers/default-synthesizer.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/assets.d.ts",
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack-synthesizers/stack-synthesizer.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/stack-synthesizers/index.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/stack-synthesizers/bootstrapless-synthesizer.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack-synthesizers/default-synthesizer.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack-synthesizers/legacy.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack-synthesizers/nested.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack-synthesizers/stack-synthesizer.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack-synthesizers/types.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/stack-synthesizers/legacy.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/assets.d.ts",
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack-synthesizers/stack-synthesizer.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/stack-synthesizers/nested.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/assets.d.ts",
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack-synthesizers/stack-synthesizer.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack-synthesizers/types.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/stack-synthesizers/stack-synthesizer.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/assets.d.ts",
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack-synthesizers/types.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/stack-synthesizers/types.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/assets.d.ts",
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/stack-trace.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/stack.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/arn.d.ts",
+        "./node_modules/@aws-cdk/core/lib/assets.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-element.d.ts",
+        "./node_modules/@aws-cdk/core/lib/cfn-resource.d.ts",
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/environment.d.ts",
+        "./node_modules/@aws-cdk/core/lib/reference.d.ts",
+        "./node_modules/@aws-cdk/core/lib/resolvable.d.ts",
+        "./node_modules/@aws-cdk/core/lib/stack-synthesizers/index.d.ts",
+        "./node_modules/@aws-cdk/core/lib/tag-manager.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/stage.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/environment.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/string-fragments.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/resolvable.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/tag-aspect.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/aspect.d.ts",
+        "./node_modules/@aws-cdk/core/lib/construct-compat.d.ts",
+        "./node_modules/@aws-cdk/core/lib/tag-manager.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/tag-manager.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/cfn-resource.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/token.d.ts": [
+        "./node_modules/@aws-cdk/core/lib/resolvable.d.ts",
+        "./node_modules/@aws-cdk/core/lib/string-fragments.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/index.d.ts"
+      ],
+      "./node_modules/@aws-cdk/core/lib/tree.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/app.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/artifacts/asset-manifest-artifact.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/index.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/cloud-artifact.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/cloud-assembly.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/artifacts/cloudformation-artifact.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/index.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/cloud-artifact.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/cloud-assembly.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/environment.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/artifacts/nested-cloud-assembly-artifact.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/index.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/cloud-artifact.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/cloud-assembly.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/artifacts/tree-cloud-artifact.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/index.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/cloud-artifact.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/cloud-assembly.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/assets.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/cloud-artifact.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/index.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/cloud-assembly.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/metadata.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/cloud-assembly.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/index.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/artifacts/cloudformation-artifact.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/artifacts/nested-cloud-assembly-artifact.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/artifacts/tree-cloud-artifact.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/cloud-artifact.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/context/ami.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/context/availability-zones.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/context/endpoint-service-availability-zones.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/context/load-balancer.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/context/security-group.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/context/vpc.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/cxapi.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/environment.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/features.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/index.d.ts": [
+        "./node_modules/@aws-cdk/cx-api/lib/app.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/artifacts/asset-manifest-artifact.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/artifacts/cloudformation-artifact.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/artifacts/nested-cloud-assembly-artifact.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/artifacts/tree-cloud-artifact.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/assets.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/cloud-artifact.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/cloud-assembly.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/context/ami.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/context/availability-zones.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/context/endpoint-service-availability-zones.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/context/load-balancer.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/context/security-group.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/context/vpc.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/cxapi.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/environment.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/features.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/metadata.d.ts",
+        "./node_modules/@aws-cdk/cx-api/lib/placeholders.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/metadata.d.ts": [
+        "./node_modules/@aws-cdk/cloud-assembly-schema/lib/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@aws-cdk/cx-api/lib/placeholders.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "./node_modules/@babel/types/lib/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@babel/types/lib/index.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/babel__core/index.d.ts": [
+        "./node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "./node_modules/@babel/types/lib/index.d.ts",
+        "./node_modules/@types/babel__generator/index.d.ts",
+        "./node_modules/@types/babel__template/index.d.ts",
+        "./node_modules/@types/babel__traverse/ts4.1/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/babel__generator/index.d.ts": [
+        "./node_modules/@babel/types/lib/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/babel__template/index.d.ts": [
+        "./node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "./node_modules/@babel/types/lib/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/babel__traverse/ts4.1/index.d.ts": [
+        "./node_modules/@babel/types/lib/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/fs-extra/index.d.ts": [
+        "./node_modules/@types/node/fs.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/ts3.7/index.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/graceful-fs/index.d.ts": [
+        "./node_modules/@types/node/fs.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/ts3.7/index.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/istanbul-lib-coverage/index.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "./node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/istanbul-reports/index.d.ts": [
+        "./node_modules/@types/istanbul-lib-report/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/jest/index.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/jest-diff/build/index.d.ts",
+        "./node_modules/pretty-format/build/index.d.ts"
+      ],
+      "./node_modules/@types/node/async_hooks.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/base.d.ts": [
+        "./node_modules/@types/node/async_hooks.d.ts",
+        "./node_modules/@types/node/buffer.d.ts",
+        "./node_modules/@types/node/child_process.d.ts",
+        "./node_modules/@types/node/cluster.d.ts",
+        "./node_modules/@types/node/console.d.ts",
+        "./node_modules/@types/node/constants.d.ts",
+        "./node_modules/@types/node/crypto.d.ts",
+        "./node_modules/@types/node/dgram.d.ts",
+        "./node_modules/@types/node/dns.d.ts",
+        "./node_modules/@types/node/domain.d.ts",
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/fs.d.ts",
+        "./node_modules/@types/node/globals.d.ts",
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/http2.d.ts",
+        "./node_modules/@types/node/https.d.ts",
+        "./node_modules/@types/node/inspector.d.ts",
+        "./node_modules/@types/node/module.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/os.d.ts",
+        "./node_modules/@types/node/path.d.ts",
+        "./node_modules/@types/node/perf_hooks.d.ts",
+        "./node_modules/@types/node/process.d.ts",
+        "./node_modules/@types/node/punycode.d.ts",
+        "./node_modules/@types/node/querystring.d.ts",
+        "./node_modules/@types/node/readline.d.ts",
+        "./node_modules/@types/node/repl.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/string_decoder.d.ts",
+        "./node_modules/@types/node/timers.d.ts",
+        "./node_modules/@types/node/tls.d.ts",
+        "./node_modules/@types/node/trace_events.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/tty.d.ts",
+        "./node_modules/@types/node/url.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/v8.d.ts",
+        "./node_modules/@types/node/vm.d.ts",
+        "./node_modules/@types/node/worker_threads.d.ts",
+        "./node_modules/@types/node/zlib.d.ts"
+      ],
+      "./node_modules/@types/node/buffer.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/child_process.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/cluster.d.ts": [
+        "./node_modules/@types/node/child_process.d.ts",
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/console.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/constants.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/crypto.d.ts": [
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/dgram.d.ts": [
+        "./node_modules/@types/node/dns.d.ts",
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/dns.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/domain.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/events.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/fs.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/url.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/globals.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/http.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/url.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/http2.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/fs.d.ts",
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/tls.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/url.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/https.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/http.d.ts",
+        "./node_modules/@types/node/tls.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/url.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/inspector.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/module.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/net.d.ts": [
+        "./node_modules/@types/node/dns.d.ts",
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/os.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/path.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/perf_hooks.d.ts": [
+        "./node_modules/@types/node/async_hooks.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/process.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/punycode.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/querystring.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/readline.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/repl.d.ts": [
+        "./node_modules/@types/node/readline.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/node/vm.d.ts"
+      ],
+      "./node_modules/@types/node/stream.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/string_decoder.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/timers.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/tls.d.ts": [
+        "./node_modules/@types/node/crypto.d.ts",
+        "./node_modules/@types/node/dns.d.ts",
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/trace_events.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/ts3.2/base.d.ts": [
+        "./node_modules/@types/node/base.d.ts",
+        "./node_modules/@types/node/ts3.2/globals.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/ts3.2/globals.d.ts": [
+        "./node_modules/@types/node/globals.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/ts3.2/util.d.ts": [
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/ts3.7/assert.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/ts3.7/base.d.ts": [
+        "./node_modules/@types/node/ts3.2/base.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/ts3.7/assert.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/ts3.7/index.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/ts3.7/base.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/tty.d.ts": [
+        "./node_modules/@types/node/net.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/url.d.ts": [
+        "./node_modules/@types/node/querystring.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/util.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "./node_modules/@types/node/v8.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/vm.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/worker_threads.d.ts": [
+        "./node_modules/@types/node/events.d.ts",
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/node/zlib.d.ts": [
+        "./node_modules/@types/node/stream.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/normalize-package-data/index.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/prettier/index.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/stack-utils/index.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/uuid/index.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/yargs-parser/index.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/@types/yargs/index.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/@types/yargs-parser/index.d.ts"
+      ],
+      "./node_modules/constructs/lib/aspect.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/construct.d.ts"
+      ],
+      "./node_modules/constructs/lib/construct.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/aspect.d.ts",
+        "./node_modules/constructs/lib/metadata.d.ts"
+      ],
+      "./node_modules/constructs/lib/index.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/constructs/lib/aspect.d.ts",
+        "./node_modules/constructs/lib/construct.d.ts",
+        "./node_modules/constructs/lib/metadata.d.ts"
+      ],
+      "./node_modules/constructs/lib/metadata.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/jest-diff/build/cleanupsemantic.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/jest-diff/build/difflines.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "./node_modules/jest-diff/build/types.d.ts"
+      ],
+      "./node_modules/jest-diff/build/index.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "./node_modules/jest-diff/build/difflines.d.ts",
+        "./node_modules/jest-diff/build/printdiffs.d.ts",
+        "./node_modules/jest-diff/build/types.d.ts"
+      ],
+      "./node_modules/jest-diff/build/printdiffs.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/jest-diff/build/cleanupsemantic.d.ts",
+        "./node_modules/jest-diff/build/types.d.ts"
+      ],
+      "./node_modules/jest-diff/build/types.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./node_modules/pretty-format/build/index.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts",
+        "./node_modules/pretty-format/build/types.d.ts"
+      ],
+      "./node_modules/pretty-format/build/types.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "./test/amplify_cl_isynth_cdk.test.ts": [
+        "./lib/index.ts",
+        "./node_modules/@aws-cdk/assert/lib/index.d.ts",
+        "./node_modules/@aws-cdk/core/lib/index.d.ts",
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es2020.bigint.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.es5.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ],
+      "../../../../usr/local/lib/node_modules/jsii/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "./node_modules/@types/node/ts3.2/util.d.ts",
+        "./node_modules/@types/node/util.d.ts"
+      ]
+    },
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": []
+  },
+  "version": "3.9.10"
+}

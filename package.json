@@ -1,0 +1,54 @@
+{
+  "name": "amplify_cli_synth_cdk",
+  "version": "0.1.4",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@aws-cdk/assert": "1.87.0",
+    "@types/fs-extra": "^8.1.1",
+    "@types/jest": "^26.0.10",
+    "@types/node": "10.17.27",
+    "@types/uuid": "^8.3.1",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.2.0",
+    "typescript": "~3.9.7"
+  },
+  "peerDependencies": {
+    "@aws-cdk/cloudformation-include": "^1.87.0"
+  },
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "uuid": "^8.3.2"
+  },
+  "bundledDependencies": [
+    "fs-extra",
+    "uuid"
+  ],
+  "author": {
+    "email": "ammkara@amazon.com",
+    "name": "Ammar"
+  },
+  "repository": {
+    "url": "git@github.com:ammarkarachi/AmplifyCLIStackConstruct.git"
+  },
+  "license": "ISC",
+  "jsii": {
+    "outdir": "dist",
+    "versionFormat": "short",
+    "targets": {
+      "python": {
+        "distName": "amplify_cli_stack",
+        "module": "amplify_cli_stack"
+      },
+      "dotnet": {
+        "namespace": "Amplify.CLI",
+        "packageId": "Amplify.CLI.stack"
+      }
+    }
+  }
+}
